@@ -4,38 +4,23 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 2,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'React',
-    competency: 3,
+    competency: 1,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 5,
     category: ['Tools', 'Languages'],
   },
   {
     title: 'Amazon Web Services',
     competency: 4,
     category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
   },
   {
     title: 'ElasticSearch',
@@ -49,18 +34,13 @@ const skills = [
   },
   {
     title: 'Redis',
-    competency: 3,
+    competency: 5,
     category: ['Web Development', 'Databases'],
   },
   {
     title: 'Data Mining',
-    competency: 3,
+    competency: 5,
     category: ['Data Science'],
-  },
-  {
-    title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
   },
   {
     title: 'D3',
@@ -74,7 +54,7 @@ const skills = [
   },
   {
     title: 'Git/Mercurial',
-    competency: 3,
+    competency: 5,
     category: ['Tools'],
   },
   {
@@ -89,32 +69,27 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 5,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
     title: 'Numba',
-    competency: 2,
+    competency: 4,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
     title: 'Jupyter',
-    competency: 3,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Typescript',
-    competency: 2,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    title: 'HTML',
+    competency: 5,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -124,17 +99,17 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 5,
     category: ['Languages'],
   },
   {
     title: 'Julia',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
     title: 'MATLAB',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
@@ -159,22 +134,22 @@ const skills = [
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 5,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 5,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Hadoop',
-    competency: 2,
+    competency: 4,
     category: ['Data Engineering', 'Data Science'],
   },
   {
     title: 'Spark',
-    competency: 2,
+    competency: 3,
     category: ['Data Engineering', 'Data Science'],
   },
   {
