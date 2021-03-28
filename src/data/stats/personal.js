@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+/* import React, { useState, useEffect } from 'react';
 
 const Age = () => {
   const [age, setAge] = useState();
@@ -16,7 +16,7 @@ const Age = () => {
     };
   }, []);
   return <>{age}</>;
-};
+}; */
 
 const data = [
   {
